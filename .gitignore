@@ -1,0 +1,42 @@
+rom/
+work/
+tools/BizHawk/
+tools/work/
+__pycache__/
+*.pyc
+*.gba
+*.agb
+*.srl
+*.rom
+*.bin
+build/
+
+# Local emulator data, downloads and dependencies
+*.sav
+*.srm
+*.SaveRAM*
+*.State*
+*.state*
+*.savestate
+*.bk2
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.log
+*.png
+*.jpg
+*.jpeg
+!/docs/screenshots/*.png
+.venv/
+
+# Local credentials
+.env*
+
+# Backups and system files
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db

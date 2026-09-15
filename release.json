@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "name": "Metroid Fusion European Vanilla+ v1.0.0",
+  "version": "1.0.0",
+  "base_rom": {
+    "title": "Metroid Fusion (Europe) (En,Fr,De,Es,It)",
+    "region": "Europe",
+    "game_code": "AMTP",
+    "revision": 0,
+    "bytes": 8388608,
+    "crc32": "974e46ab",
+    "sha1": "cc46d54b70c1ee38c856ee6e58ec712136763389",
+    "sha256": "a024ef6fa8ff19444bc6c31a714eb6cab44464b39227fcd434e409fca1cd8198"
+  },
+  "variants": [
+    {
+      "name": "eu-vanilla-plus",
+      "components": ["A", "B", "C", "D", "F"],
+      "patch": "patches/metroid-fusion-vanilla-plus-eu-v1.0.0.ips",
+      "patch_bytes": 34996,
+      "patch_sha256": "03f15ebaf6939ad58c4c977113866d29b0a751a400685f1c0064d8365dc0f728",
+      "result_bytes": 8388608,
+      "result_sha1": "37c26f63e812180973b9c9efc63913e1b1feb18c",
+      "result_sha256": "fd211f006f81ef2ce3ea09de94831a4a1b33b2e87702618fa6c18b1eedf11312"
+    }
+  ],
+  "upstream": {
+    "url": "https://github.com/ShadowOne333/Metroid-Fusion-Redux",
+    "commit": "e7da0d65bb3186e6ed2a5ec02d9602213bf3c79a",
+    "license": "docs/Metroid-Fusion-Redux-LICENSE.txt",
+    "notice": "docs/Metroid-Fusion-Redux-README.txt"
+  },
+  "source": {
+    "archive": "https://github.com/Bruc3Dev573/metroid-fusion-vanilla-plus/releases/download/v1.0.0/metroid-fusion-vanilla-plus-eu-v1.0.0-source.zip",
+    "specification": "patches/vanilla-plus-eu.json",
+    "builder": "tools/build.py"
+  },
+  "distribution": "https://github.com/Bruc3Dev573/metroid-fusion-vanilla-plus",
+  "verification_scope": "Targeted build, CPU and native emulator scenarios; not a full playthrough or physical GBA/MiSTer validation. Historical saves, states and raw logs are not bundled."
+}
