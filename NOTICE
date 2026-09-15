@@ -9,7 +9,14 @@ Credit Bruc3Dev573 and link to this project when redistributing them:
 https://github.com/Bruc3Dev573/metroid-fusion-vanilla-plus
 
 Original integration code and tools are available under GPL-3.0-only.
-Redux-derived modifications remain subject to upstream GPLv3 terms.
+The Redux repository declares GPLv3 for the collection. This declaration is
+not presented here as independent proof of each original author's grant.
+The component-by-component findings and open questions are documented in:
+  docs/permissions.md
+Review date: 16 September 2026. Independent original-author grants remain
+unresolved for Piggy Chan!, SpineShark, Jumzhu, somerando(caauyjdp) and
+interdpth. This review does not establish complete permission coverage
+for public redistribution of the combined patch.
 The upstream license and README are preserved verbatim in:
   docs/Metroid-Fusion-Redux-LICENSE.txt
   docs/Metroid-Fusion-Redux-README.txt
