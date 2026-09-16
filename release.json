@@ -30,11 +30,6 @@
     "license": "docs/Metroid-Fusion-Redux-LICENSE.txt",
     "notice": "docs/Metroid-Fusion-Redux-README.txt"
   },
-  "permissions": {
-    "review": "docs/permissions.md",
-    "reviewed": "2026-09-16",
-    "status": "original-author-grants-unresolved"
-  },
   "source": {
     "archive": "https://github.com/Bruc3Dev573/metroid-fusion-vanilla-plus/releases/download/v1.0.0/metroid-fusion-vanilla-plus-eu-v1.0.0-source.zip",
     "specification": "patches/vanilla-plus-eu.json",

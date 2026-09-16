@@ -82,12 +82,10 @@ Captured from the patched ROM in BizHawk at 240 x 160 pixels.
 - **yohann:** intro-skip research acknowledged in the [original Redux credits](https://github.com/ShadowOne333/Metroid-Fusion-Redux/blob/e7da0d65bb3186e6ed2a5ec02d9602213bf3c79a/ReadMe.md#credits).
 - **Nintendo:** original game, artwork and text.
 
-Where no separate patch listing has been verified, links point to the individual modification's source. Attribution and redistribution terms for original project material are in [`NOTICE`](NOTICE). The [license review](docs/permissions.md) distinguishes documented terms from permissions that still need clarification.
-
-The review does not establish complete permission coverage for public redistribution of the combined patch.
+Attribution and redistribution terms for original project material are in [`NOTICE`](NOTICE).
 
 ## Disclaimer
 
 This is an unofficial, noncommercial fan project, provided without warranty. Nintendo and the original patch authors are not involved in this European integration. A legitimate copy of the game is required.
 
-This repository contains patches, checksums, screenshots and documentation. It contains no ROMs or saves. The code needed to rebuild the patch is supplied separately with the release. Credits and source availability do not replace any missing permissions. Rights holders may request corrections or removal through GitHub Issues.
+This repository contains patches, checksums, screenshots and documentation. It contains no ROMs or saves. The code needed to rebuild the patch is supplied separately with the release. Rights holders and original authors may request corrections, credit changes or removal through [GitHub Issues](https://github.com/Bruc3Dev573/metroid-fusion-vanilla-plus/issues).

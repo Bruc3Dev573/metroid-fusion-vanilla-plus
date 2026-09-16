@@ -82,12 +82,10 @@ Immagini della ROM modificata, acquisite in BizHawk a 240 x 160 pixel.
 - **yohann:** ricerca sul salto dell'introduzione, citata nei [crediti originali di Redux](https://github.com/ShadowOne333/Metroid-Fusion-Redux/blob/e7da0d65bb3186e6ed2a5ec02d9602213bf3c79a/ReadMe.md#credits).
 - **Nintendo:** gioco, grafica e testi originali.
 
-Per le modifiche senza una scheda separata verificata, i link portano al codice della singola patch. Le condizioni del materiale originale del progetto sono in [`NOTICE`](NOTICE). La [verifica delle licenze](docs/permissions.md) distingue le condizioni trovate dai permessi ancora da chiarire.
-
-La verifica non consente di dichiarare chiarita ogni autorizzazione per la ridistribuzione pubblica della patch completa.
+Le condizioni di attribuzione e ridistribuzione del materiale originale del progetto sono descritte in [`NOTICE`](NOTICE).
 
 ## Note legali
 
 Progetto amatoriale non ufficiale e non commerciale, senza garanzia. Nintendo e gli autori originali delle patch non sono coinvolti in questa integrazione europea. È necessaria una copia legittima del gioco.
 
-Il repository contiene patch, checksum, screenshot e documentazione. Non contiene ROM o salvataggi. Il codice per ricostruire la patch è fornito separatamente nella release. I crediti e la disponibilità dei sorgenti non sostituiscono eventuali autorizzazioni mancanti. I titolari dei diritti possono richiedere correzioni o rimozioni tramite GitHub Issues.
+Il repository contiene patch, checksum, screenshot e documentazione. Non contiene ROM o salvataggi. Il codice per ricostruire la patch è fornito separatamente nella release. I titolari dei diritti e gli autori originali possono richiedere correzioni, modifiche ai crediti o la rimozione tramite [GitHub Issues](https://github.com/Bruc3Dev573/metroid-fusion-vanilla-plus/issues).
